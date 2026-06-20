@@ -1,14 +1,14 @@
-# 🌟 NayePankh Foundation Website
+#  NayePankh Foundation Website
 
 A modern, responsive NGO website created for the NayePankh Foundation Frontend Development Internship Task.
 
-## 📖 Overview
+##  Overview
 
 This project is a redesigned landing page for NayePankh Foundation, focusing on improving user engagement, showcasing the organization's impact, and encouraging volunteer participation.
 
 The website features a clean and modern interface with responsive design, interactive elements, and an accessible user experience.
 
-## 🚀 Features
+##  Features
 
 - Responsive Design (Mobile, Tablet & Desktop)
 - Modern Hero Section
@@ -21,17 +21,17 @@ The website features a clean and modern interface with responsive design, intera
 - Interactive Hover Effects
 - Clean UI/UX Design
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 🎯 Objective
+##  Objective
 
 The objective of this project is to create a simple yet visually appealing webpage that represents NayePankh Foundation's mission and social impact while demonstrating frontend development skills.
 
-## 📸 Key Sections
+##  Key Sections
 
 - Hero Section
 - About Us
@@ -40,7 +40,7 @@ The objective of this project is to create a simple yet visually appealing webpa
 - Volunteer Registration
 - Contact/Footer
 
-## 💡 Future Enhancements
+##  Future Enhancements
 
 - Animated Counters
 - Backend Integration
@@ -48,16 +48,16 @@ The objective of this project is to create a simple yet visually appealing webpa
 - Donation Portal
 - Advanced Accessibility Features
 
-## 👩‍💻 Author
+##  Author
 
 Suhani Jain
 B.Tech CSE (AI & ML)
 Frontend Development Internship Submission
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Suhani-001
 
 ---
 
-## 📜 Disclaimer
+##  Disclaimer
 
 This project was created solely for educational and internship evaluation purposes and is not the official website of NayePankh Foundation.
